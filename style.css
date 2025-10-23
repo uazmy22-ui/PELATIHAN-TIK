@@ -1,7 +1,7 @@
 body{
   background-color:#FFFFE0;
 font-family:arial,sans-serif:;
-  color:#1911970;
+  color: #1911970;
   }
 
   .profil{
@@ -11,7 +11,7 @@ font-family:arial,sans-serif:;
   background-color:white;
   border-radius:15px;
   box-shadow:0 4px 8px rgba(0,0,0,0,1);
-  text-aligh:center;
+  text-align:center;
   }
 
   .profil img{
