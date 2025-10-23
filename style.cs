@@ -1,0 +1,20 @@
+body {
+  backgrund-color: #FFFFE0;
+  font-family: arial,sans-serif;
+  color: #1911970;
+}
+
+.profil{
+  width:300px;
+  margin:50px auto;
+  padding:20px;
+  background-color:white;
+  border-radius:15px;
+  box-shadow:0 4px 8px rgba(0,0,0,0,1);
+  text-align:center;
+}
+
+.profil img{
+  width:150px;
+  border-radius:50%;
+}
