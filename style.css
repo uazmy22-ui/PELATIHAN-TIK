@@ -4,7 +4,7 @@ font-family:arial,sans-serif:/* jenis huruf yang bersih dan mudah dibaca*/
   color:#1911970;/*warna teks utama (biru gelap)*/
   }
 
-  .kartu-profil{
+  .profil{
   width:300px;
   margin:50px auto;/*50px jarak atas /bawah,auto menengahkan kiri/kanan*/
   padding:20px;
@@ -13,7 +13,7 @@ font-family:arial,sans-serif:/* jenis huruf yang bersih dan mudah dibaca*/
   box-shadow:0,4px 8px rgba(0,0,0,0,1);/*efek bayangan */
   text-aligh:center;/*menengahkan semua teks di dalam kartu*/
 }
-  kartu-profil img{
+  profil img{
     width:150px;
     border-radius:50%;/*trik untuk membuat gambar persegi menjadi lingkaran sempurna
   }
