@@ -14,7 +14,7 @@ font-family:arial,sans-serif:/* jenis huruf yang bersih dan mudah dibaca*/
   text-aligh:center;/*menengahkan semua teks di dalam kartu*/
 }
   profil img{
-    width:100px;
+    width:150px;
     border-radius:50%;/*trik untuk membuat gambar persegi menjadi lingkaran sempurna
   }
 
